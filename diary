@@ -1,0 +1,5 @@
+git init
+git status
+git add FILENAME / DIRECTORY
+git rm --cached FILENAME
+.gitignore   
