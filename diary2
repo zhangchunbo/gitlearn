@@ -4,3 +4,4 @@ git add FILENAME / DIRECTORY
 git rm --cached FILENAME
 .gitignore   
 git commit -a -m DESCRIPTION
+git mv file_from file_to
