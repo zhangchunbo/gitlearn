@@ -3,3 +3,4 @@ git status
 git add FILENAME / DIRECTORY
 git rm --cached FILENAME
 .gitignore   
+git commit -a -m DESCRIPTION
